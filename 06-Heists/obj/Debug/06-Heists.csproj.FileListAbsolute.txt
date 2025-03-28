@@ -1,0 +1,7 @@
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\bin\Debug\06-Heists.exe.config
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\bin\Debug\06-Heists.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\bin\Debug\06-Heists.pdb
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\obj\Debug\06-Heists.csproj.AssemblyReference.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\obj\Debug\06-Heists.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\obj\Debug\06-Heists.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\06-Heists\obj\Debug\06-Heists.pdb
