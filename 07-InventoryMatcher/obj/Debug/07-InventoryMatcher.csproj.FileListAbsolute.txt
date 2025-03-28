@@ -1,0 +1,7 @@
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\bin\Debug\07-InventoryMatcher.exe.config
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\bin\Debug\07-InventoryMatcher.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\bin\Debug\07-InventoryMatcher.pdb
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\obj\Debug\07-InventoryMatcher.csproj.AssemblyReference.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\obj\Debug\07-InventoryMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\obj\Debug\07-InventoryMatcher.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\07-InventoryMatcher\obj\Debug\07-InventoryMatcher.pdb
