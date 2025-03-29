@@ -1,0 +1,7 @@
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\bin\Debug\08-Upgraded-Matcher.exe.config
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\bin\Debug\08-Upgraded-Matcher.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\bin\Debug\08-Upgraded-Matcher.pdb
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\obj\Debug\08-Upgraded-Matcher.csproj.AssemblyReference.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\obj\Debug\08-Upgraded-Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\obj\Debug\08-Upgraded-Matcher.exe
+C:\Users\Laptop\Source\Repos\C-sharpArrayTasks\08-Upgraded-Matcher\obj\Debug\08-Upgraded-Matcher.pdb
